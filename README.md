@@ -1,7 +1,7 @@
 # Lab_05
 DOM manipulation
 
-Name: _______________________________________
+Name: Mackenzie Stall____________
 
 ## DUE: 15 Oct 2017 @ 11:59 pm
 
